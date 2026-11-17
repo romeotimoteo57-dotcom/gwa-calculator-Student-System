@@ -1,12 +1,20 @@
-COURSE LOGOS
-============
-Put each course's official logo here, using these exact file names:
+PHOTOS OF THE PROJECT MEMBERS
+=============================
 
-    hrm.png       -> BSBA - Human Resource Management
-    math.png      -> BSEd - Mathematics
-    computer.png  -> BIT - Computer Technology
-    social.png    -> BSEd - Social Studies
-    nursing.png   -> BS Nursing
+Put one picture of each member in this folder, using these exact file names:
 
-Tip: PNG with transparent background, square-ish. If a .png is missing,
-the placeholder .svg icon is shown instead.
+    romeo.jpg      -> Romeo Timoteo
+    andrea.jpg     -> Andrea Jane Reblora
+    jayrenz.jpg    -> Jayrenz Leonidas
+    renmuel.jpg    -> Renmuel Daya
+    carl.jpg       -> Carl Aldred Ravino
+
+Accepted types: .jpg  .jpeg  .png  .webp
+Tip: use a clear, front-facing, square-ish picture (the face is shown in a circle).
+
+The pictures appear in the ABOUT SYSTEM page of the application.
+If a picture is missing, the member's initials are shown instead.
+
+INSTRUCTOR
+----------
+    instructor.jpg -> Ian Titus F. Ramones   (.jpg .jpeg .png .webp)
